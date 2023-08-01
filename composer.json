@@ -1,8 +1,8 @@
 {
-  "name": "yethee/tiktoken",
+  "name": "nutshellcrm/tiktoken",
   "type": "library",
   "license": "MIT",
-  "description": "PHP version of tiktoken",
+  "description": "PHP version of tiktoken (forked for PHP 7)",
   "keywords": ["openai", "tiktoken", "tokenizer", "bpe", "encode", "decode"],
   "require": {
     "php": "^7.3",
