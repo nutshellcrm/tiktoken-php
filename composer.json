@@ -12,7 +12,7 @@
     "doctrine/coding-standard": "^11.1",
     "phpunit/phpunit": "^9.6.10",
     "psalm/plugin-phpunit": "^0.18.3",
-    "vimeo/psalm": "4.30.0"
+    "vimeo/psalm": "4.x-dev"
   },
   "autoload": {
     "psr-4": {
