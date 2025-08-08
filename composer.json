@@ -5,7 +5,7 @@
   "description": "PHP version of tiktoken (forked for PHP 7)",
   "keywords": ["openai", "tiktoken", "tokenizer", "bpe", "encode", "decode"],
   "require": {
-    "php": "^7.3",
+    "php": ">=7.3",
     "symfony/service-contracts": "^2.5 || ^3.0"
   },
   "require-dev": {
